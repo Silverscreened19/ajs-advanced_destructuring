@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/v5yr18tjfw8xhc5o?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ajs-advanced)
+[![Build status](https://ci.appveyor.com/api/projects/status/ul0tuk83xeam8emd?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ajs-advanced-destructuring)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
